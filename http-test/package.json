@@ -1,0 +1,21 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "web server node+express+koa2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonentityboy/node_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nonentityboy/node_blog/issues"
+  },
+  "homepage": "https://github.com/Nonentityboy/node_blog#readme"
+}
